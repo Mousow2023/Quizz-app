@@ -231,8 +231,5 @@ def get_user_preferences():
     return (number_of_questions, choosen_category, difficulty, preferred_type, category_name)
 
 
-def test():
-    pass
-
 if __name__ == "__main__":
     main()
